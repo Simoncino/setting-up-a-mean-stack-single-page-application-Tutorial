@@ -1,0 +1,14 @@
+{
+  "name": "starter-node-angular",
+  "main": "server.js",
+  "dependencies": {
+    "angular": "^1.4.9",
+    "animate.css": "^3.4.0",
+    "body-parser": "^1.14.2",
+    "bootstrap": "^3.3.6",
+    "express": "^4.13.4",
+    "font-awesome": "^4.5.0",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.3.7"
+  }
+}
